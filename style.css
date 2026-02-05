@@ -1,0 +1,29 @@
+body {
+    font-family: poppins;
+    background-color: white;
+}
+
+.container {
+    height: auto;
+    width: 900px;
+    border: 4px solid black;
+    padding-top: 40px;
+    padding-left: 60px;
+    margin: auto;
+    text-align: left;
+}
+
+hr {
+    height: 2px;
+    width: 650px;
+    background-color: black;
+    border-radius: 0.5px;
+}
+
+.second-titles {
+    color: rgb(8, 160, 8);
+}
+
+h3 {
+    color: rgb(0, 162, 255);
+}
